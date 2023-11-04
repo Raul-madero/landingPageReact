@@ -41,7 +41,7 @@ const Jumbotron = () => {
 const Cards = () => {
 	return (
 		<div className="container-fluid w-75 p-4 d-flex g-4 flex-wrap flex-lg-nowrap">
-			<div className="card">
+			<div className="card mx-1">
 				<img href="" className="card-img-top" alt="Card image" />
 				<div className="card-body">
 					<h5 className="card-title text-center">Card Title</h5>
@@ -49,7 +49,7 @@ const Cards = () => {
 					<a href="#" className="btn btn-primary align-self-center">Go Somewhere</a>
 				</div>
 			</div>
-			<div className="card">
+			<div className="card mx-1">
 				<img href="" className="card-img-top" alt="Card image" />
 				<div className="card-body">
 					<h5 className="card-title text-center">Card Title</h5>
@@ -57,8 +57,8 @@ const Cards = () => {
 					<a href="#" className="btn btn-primary">Go Somewhere</a>
 				</div>
 			</div>
-			<div className="card">
-				<img href="" className="card-img-top" alt="Card image" />
+			<div className="card mx-1">
+				<img href="../../img/rigo-baby.jpg" className="card-img-top" alt="Card image" />
 				<div className="card-body">
 					<h5 className="card-title text-center">Card Title</h5>
 					<p className="card-text text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis assumenda laudantium corporis. Natus in obcaecati molestias architecto expedita omnis praesentium amet perferendis? Dolore quos velit sint laboriosam tenetur saepe eveniet?</p>
