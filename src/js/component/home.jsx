@@ -1,7 +1,7 @@
 import React from "react";
 
 //include images into your bundle
-import bosque from "../../img/bosque.jpg";
+import bosque from "../../img/bosque.jpg"
 import lago from "../../img/lago.jpg";
 import monte from "../../img/monte.jpg";
 
